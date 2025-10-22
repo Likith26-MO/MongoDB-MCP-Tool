@@ -1,7 +1,3 @@
-Absolutely! I’ve reformatted the README with **clear, readable fonts and spacing**, structured headings, and consistent code blocks—perfect for GitHub display. Here’s the final **clean and professional version**:
-
----
-
 # MongoDB-MCP-Tool
 
 A comprehensive **MongoDB CRUD system** with **FastAPI backend**, **Streamlit frontend**, and **MCP (Model Context Protocol)** integration for AI tool discovery.
