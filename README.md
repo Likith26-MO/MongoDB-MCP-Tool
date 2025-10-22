@@ -32,7 +32,7 @@ pip install fastapi uvicorn pymongo streamlit requests pydantic python-multipart
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/MongoDB-MCP-Tool.git
+git clone https://github.com/Likith26-MO/MongoDB-MCP-Tool.git
 cd MongoDB-MCP-Tool
 ```
 
